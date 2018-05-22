@@ -1,2 +1,2 @@
 # SSS
-simple stream server
+**simple stream server**
