@@ -1,2 +1,1 @@
-# SSS
-**simple stream server**
+# SSS - simple stream server
